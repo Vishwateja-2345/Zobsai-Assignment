@@ -16,4 +16,9 @@ Autofills common job application fields with user-configurable data.
 - Save
 - Click Autofill Form on job application page
   
-![ChatGPT Image Jan 3, 2026, 09_16_09 PM](https://github.com/user-attachments/assets/86031eeb-9b70-486b-acb5-ac0797bf9e68)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86031eeb-9b70-486b-acb5-ac0797bf9e68"
+       alt="Extension Popup UI"
+       width="300"/>
+</p>
+
